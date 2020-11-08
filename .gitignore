@@ -1,0 +1,25 @@
+# IntelliJ
+*.iml
+.idea/
+
+# for python project
+.python-version
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
+*.pyc
+
+# for project
+*.env
+*.bak
+*.log
+
+/media/
+/static/
